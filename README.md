@@ -8,12 +8,12 @@
 </div>
 <div align ="left">
     
-<details> 
+
     
 <summary><h2>🗺️ 포스터</summary>
 <img width="906" alt="image" src="https://github.com/rkdaudgus94/Port-safety-prevent-system/assets/76949032/5977c213-e623-4b2c-9eba-895f5ab1189a">
 
-</details>
+
 </div>
 
 <div align ="left">
