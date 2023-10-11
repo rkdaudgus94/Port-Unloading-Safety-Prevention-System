@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <h1>  ⛵Port-Unloading-Safety-Prevention-System⛵ </h1>
+    <h1>  ⛵Port-Unloading-Safety-Prevention-System(진행중)⛵ </h1>
 </div>
 <div align ="left">
     
@@ -83,5 +83,18 @@
 </br>
 ### 🔘yolo8 result
 ![image](https://github.com/rkdaudgus94/Port-safety-prevent-system/assets/76949032/1745ea6c-a63c-4475-864c-da3a03f6910a)
+</div>
+
+### 🥉 실시간 데이터 관리
+</br>
+
+- 비전 부분에서 실시간으로 추출한 데이터를 데이터베이스에 저장하고 이를 웹 사이트로 표현
+- XAMPP 프로그램을 사용하여 MySQL과 Apache를 작동시켜서 phpMyAdmin을 통해 데이터베이스 관리
+- 웹 사이트의 프론트 부분도 php형식의 파일을 사용해 css와 html을 만들어서 데이터는 표 형태로 구현
+- 사건 다발 장소, 사건 다발 종류를 한 눈에 볼 수 있게 구현
+
+</br>
+
+![image](https://github.com/rkdaudgus94/Port-safety-prevent-system/assets/76949032/091ba50f-ef0e-4a6c-901d-351e7f4457c4)
 
 </div>
